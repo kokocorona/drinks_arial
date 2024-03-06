@@ -1,0 +1,10 @@
+צרו ROUTES חדש בשם GAMES, צרו גם COLLECTION במסד נותנים שלנו בשם GAMES ותייבאו את הJSON בשם GAMES שנמצא בתקיית JSON
+
+צרו רק בקשת GET 
+ובבקשת GET הוסיפו את האפשרות לצד לקוח לשלוח QUERY STING של LIMIT , SKIP ו SORT כפי שלמדנו בכיתה עם ה WOLTS
+בנוסף תנו אפשרות למיין מהגדול לקטן עם REVERSE=YES
+
+
+/games/search?s=
+2. צרו ב GAMES ראוט של SEARCH שאוסף QUERYS בשם S
+וחפשו בקולקשן של ה GAMES במאפיין Game את ה ביטוי שהגיע ב קווארי S
